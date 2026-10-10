@@ -1,2 +1,2 @@
 # UniTrack-Server
-UniTrack - Campus Event &amp; Attendance Management System frontend
+UniTrack — Campus Event & Attendance Management System backend API
